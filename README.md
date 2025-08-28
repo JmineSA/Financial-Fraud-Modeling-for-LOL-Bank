@@ -1,44 +1,66 @@
 # 🚨 FraudGuard AI  
+> Advanced Real-Time Fraud Detection System | v2.0  
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
-![LightGBM](https://img.shields.io/badge/LightGBM-GradientBoosting-brightgreen)  
-![Gradio](https://img.shields.io/badge/Gradio-UI-orange?logo=fastapi)  
-![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Viz-9cf?logo=plotly)  
-![License](https://img.shields.io/badge/License-MIT-purple)  
-
----
-
-## 🔍 Overview  
-**FraudGuard AI** is a **real-time fraud detection system** built with **LightGBM, Gradio, and Plotly**.  
-It empowers businesses to:  
-- Detect fraudulent transactions ⚡  
-- Analyze fraud trends 📊  
-- Gain geographic and customer insights 🌍  
-
-Deployed live on Hugging Face Spaces → [FraudGuard AI Demo](https://huggingface.co/spaces/jmine/FraudGuard_AI)  
+![Fraud Detection](https://img.shields.io/badge/Fraud-Detection-red?style=for-the-badge)  
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)  
+![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge)  
 
 ---
 
-## 🚀 Features  
-✅ Fraud prediction (0 = Legit, 1 = Fraud)  
-✅ Interactive dashboard with KPIs & insights  
-✅ Geographic fraud visualization  
-✅ Explainable AI (feature importance)  
-✅ Easy-to-use web interface powered by Gradio  
+## 🔗 Resources & Fonts  
+- [Google Fonts – Poppins](https://fonts.google.com/specimen/Poppins)  
+- [Font Awesome Icons](https://fontawesome.com/icons)  
+- [Lucide Icons](https://lucide.dev/icons/)  
+- [Shields.io – Badges](https://shields.io/)  
 
 ---
 
-## 🛠️ Tech Stack  
-- **Python** 🐍  
-- **LightGBM** for fraud prediction  
-- **Gradio** for user-friendly web UI  
-- **Plotly** for advanced data visualization  
-- **Pandas & NumPy** for data handling  
+## 📌 Problem  
+- Increasing **online & digital banking** → more **fraudulent activities** (⚠️ identity theft, unauthorized access, suspicious patterns).  
+- Traditional methods = **reactive & outdated**, struggle with evolving fraud tactics.  
 
 ---
 
-## 📦 Installation  
-Clone the repo:  
-```bash
-git clone https://github.com/jmine/FraudGuard_AI.git
-cd FraudGuard_AI
+## 🎯 Objectives  
+- 🔎 Detect **fraudulent transactions in real time**.  
+- ⚡ Minimize **false positives** (don’t block genuine transactions).  
+- 🧠 Adapt to **new fraud strategies** through ML.  
+- 🤝 Enhance **customer trust & security**.   
+
+---
+
+## 📊 Performance Overview  
+- **Final Model Accuracy:** 97.04% ✅  
+- **Improvement over Default Model:** +0.27% 📈  
+- **Global Fraud Rate:** 5.04% of all transactions 💳  
+
+---
+
+## 📈 Future Roadmap  
+
+### **Phase 1 (3-6 months)**  
+- Implement **advanced models** (CatBoost, Neural Networks) 🤖  
+- **Real-time scoring** for faster detection ⏱️  
+
+### **Phase 2 (6-12 months)**  
+- Integrate **behavioral biometrics** for stronger security 🖐️  
+- Apply **network analysis** to uncover organized fraud 🕸️  
+
+### **Phase 3 (12-18 months)**  
+- Enable **online learning capabilities** for continuous model updates 🔄  
+- Incorporate **Explainable AI** for transparency & stakeholder trust 🧠  
+
+---
+
+## 💰 Business Impact  
+- **Reduced Losses:** Targeted prevention in high-risk segments 💸  
+- **Improved Customer Experience:** Smoother flows for low-risk users 😊  
+- **Scalable Solution:** Foundation for ongoing fraud detection improvements 📊  
+- **Actionable Insights:** Clear patterns for immediate implementation ✅  
+
+---
+
+## 👨‍💻 Developed By  
+**Lesiba James Kganyago – Data Scientist** | 2025  
+
+---
