@@ -26,7 +26,7 @@
 - Example datasets and Power BI dashboard are **hosted externally** on Hugging Face.  
 - Download or explore them directly : [FraudGuard AI on Hugging Face](https://huggingface.co/spaces/jmine/FraudGuard_AI/tree/main)  
 
-- Deployed live on Hugging Face Spaces → [FraudGuard AI Demo](https://huggingface.co/spaces/jmine/FraudGuard_AI)
+- Deployed live on Hugging Face Spaces → [FraudGuard AI ](https://huggingface.co/spaces/jmine/FraudGuard_AI)
 
 
 
