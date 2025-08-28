@@ -17,7 +17,10 @@
 
 ## 📌 Problem  
 - Increasing **online & digital banking** → more **fraudulent activities** (⚠️ identity theft, unauthorized access, suspicious patterns).  
-- Traditional methods = **reactive & outdated**, struggle with evolving fraud tactics.  
+- Traditional methods = **reactive & outdated**, struggle with evolving fraud tactics.
+
+- Deployed live on Hugging Face Spaces → [FraudGuard AI Demo](https://huggingface.co/spaces/jmine/FraudGuard_AI)  
+
 
 ---
 
