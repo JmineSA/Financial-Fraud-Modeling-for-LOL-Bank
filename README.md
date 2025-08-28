@@ -18,11 +18,13 @@
 ## 📌 Problem  
 - Increasing **online & digital banking** → more **fraudulent activities** (⚠️ identity theft, unauthorized access, suspicious patterns).  
 - Traditional methods = **reactive & outdated**, struggle with evolving fraud tactics.
+
+- 
 - - > **Note:** Due to file size limitations on GitHub, large datasets and the Power BI dashboard are hosted on Hugging Face Spaces.  
-> Access live demo and supporting files here → [FraudGuard AI Demo](https://huggingface.co/spaces/jmine/FraudGuard_AI)  
+> Access here and supporting files here → [FraudGuard AI]([https://huggingface.co/spaces/jmine/FraudGuard_AI](https://huggingface.co/spaces/jmine/FraudGuard_AI/tree/main))  
 ## 📂 Data & Dashboard
 - Example datasets and Power BI dashboard are **hosted externally** on Hugging Face.  
-- Download or explore them directly from the live demo: [FraudGuard AI on Hugging Face](https://huggingface.co/spaces/jmine/FraudGuard_AI)  
+- Download or explore them directly : [FraudGuard AI on Hugging Face](https://huggingface.co/spaces/jmine/FraudGuard_AI/tree/main)  
 
 - Deployed live on Hugging Face Spaces → [FraudGuard AI Demo](https://huggingface.co/spaces/jmine/FraudGuard_AI)
 
