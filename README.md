@@ -18,8 +18,14 @@
 ## 📌 Problem  
 - Increasing **online & digital banking** → more **fraudulent activities** (⚠️ identity theft, unauthorized access, suspicious patterns).  
 - Traditional methods = **reactive & outdated**, struggle with evolving fraud tactics.
+- - > **Note:** Due to file size limitations on GitHub, large datasets and the Power BI dashboard are hosted on Hugging Face Spaces.  
+> Access live demo and supporting files here → [FraudGuard AI Demo](https://huggingface.co/spaces/jmine/FraudGuard_AI)  
+## 📂 Data & Dashboard
+- Example datasets and Power BI dashboard are **hosted externally** on Hugging Face.  
+- Download or explore them directly from the live demo: [FraudGuard AI on Hugging Face](https://huggingface.co/spaces/jmine/FraudGuard_AI)  
 
-- Deployed live on Hugging Face Spaces → [FraudGuard AI Demo](https://huggingface.co/spaces/jmine/FraudGuard_AI)  
+- Deployed live on Hugging Face Spaces → [FraudGuard AI Demo](https://huggingface.co/spaces/jmine/FraudGuard_AI)
+
 
 
 ---
@@ -60,17 +66,6 @@
 - **Improved Customer Experience:** Smoother flows for low-risk users 😊  
 - **Scalable Solution:** Foundation for ongoing fraud detection improvements 📊  
 - **Actionable Insights:** Clear patterns for immediate implementation ✅  
-
----
-## 📌 Problem  
-- Increasing **online & digital banking** → more **fraudulent activities** (⚠️ identity theft, unauthorized access, suspicious patterns).  
-- Traditional methods = **reactive & outdated**, struggle with evolving fraud tactics.  
-
-> **Note:** Due to file size limitations on GitHub, large datasets and the Power BI dashboard are hosted on Hugging Face Spaces.  
-> Access live demo and supporting files here → [FraudGuard AI Demo](https://huggingface.co/spaces/jmine/FraudGuard_AI)  
-## 📂 Data & Dashboard
-- Example datasets and Power BI dashboard are **hosted externally** on Hugging Face.  
-- Download or explore them directly from the live demo: [FraudGuard AI on Hugging Face](https://huggingface.co/spaces/jmine/FraudGuard_AI)  
 
 ---
 
