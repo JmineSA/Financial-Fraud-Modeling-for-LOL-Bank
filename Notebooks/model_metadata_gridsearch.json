@@ -1,0 +1,53 @@
+{
+    "model_type": "LightGBM",
+    "training_date": "2025-08-26 11:46:47",
+    "best_parameters": {
+        "colsample_bytree": 0.8,
+        "learning_rate": 0.1,
+        "max_depth": 7,
+        "min_child_samples": 20,
+        "n_estimators": 300,
+        "num_leaves": 100,
+        "reg_alpha": 0.1,
+        "reg_lambda": 0,
+        "subsample": 0.8
+    },
+    "performance_metrics": {
+        "best_cv_score": 0.9723177609593284,
+        "cv_accuracy_mean": 0.9723177609593284,
+        "cv_accuracy_std": 0.0010882991730340682,
+        "train_accuracy": 0.9790092148542446,
+        "test_accuracy": 0.9723310234006227,
+        "train_test_gap": 0.006678191453621918
+    },
+    "grid_search_info": {
+        "n_parameter_combinations": 64,
+        "cv_folds": 5,
+        "scoring_metric": "accuracy"
+    },
+    "feature_names": [
+        "Age",
+        "State",
+        "City",
+        "Bank_Branch",
+        "Account_Type",
+        "Transaction_Amount",
+        "Transaction_Type",
+        "Merchant_Category",
+        "Account_Balance",
+        "Transaction_Device",
+        "Transaction_Location",
+        "Device_Type",
+        "Transaction_Currency",
+        "Day",
+        "Month",
+        "Weekday",
+        "Is_Weekend",
+        "Hour",
+        "Minutes",
+        "Seconds",
+        "Time_Bucket",
+        "Gender_Female",
+        "Gender_Male"
+    ]
+}
