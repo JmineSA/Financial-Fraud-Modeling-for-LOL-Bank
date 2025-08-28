@@ -19,7 +19,7 @@
 - Increasing **online & digital banking** → more **fraudulent activities** (⚠️ identity theft, unauthorized access, suspicious patterns).  
 - Traditional methods = **reactive & outdated**, struggle with evolving fraud tactics.
 
-- 
+ --- 
 -  > **Note:** Due to file size limitations on GitHub, large datasets and the Power BI dashboard are hosted on Hugging Face Spaces.  
 > Access here and supporting files here → [FraudGuard AI]([https://huggingface.co/spaces/jmine/FraudGuard_AI](https://huggingface.co/spaces/jmine/FraudGuard_AI/tree/main))  
 ## 📂 Data & Dashboard
