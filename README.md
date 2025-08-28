@@ -17,18 +17,10 @@
 
 ## 📌 Problem  
 - Increasing **online & digital banking** → more **fraudulent activities** (⚠️ identity theft, unauthorized access, suspicious patterns).  
-- Traditional methods = **reactive & outdated**, struggle with evolving fraud tactics.
+- Traditional methods = **reactive & outdated**, struggle with evolving fraud tactics.  
 
- --- 
--  > **Note:** Due to file size limitations on GitHub, large datasets and the Power BI dashboard are hosted on Hugging Face Spaces.  
-> Access here and supporting files here → [FraudGuard AI]([https://huggingface.co/spaces/jmine/FraudGuard_AI](https://huggingface.co/spaces/jmine/FraudGuard_AI/tree/main))  
-## 📂 Data & Dashboard
-- Example datasets and Power BI dashboard are **hosted externally** on Hugging Face.  
-- Download or explore them directly : [FraudGuard AI on Hugging Face](https://huggingface.co/spaces/jmine/FraudGuard_AI/tree/main)  
-
-- Deployed live on Hugging Face Spaces → [FraudGuard AI ](https://huggingface.co/spaces/jmine/FraudGuard_AI)
-
-
+> **Note:** Due to GitHub file size limits, **large datasets and the Power BI dashboard** are hosted on Hugging Face Spaces.  
+> Access live demo and supporting files here → [FraudGuard AI Demo](https://huggingface.co/spaces/jmine/FraudGuard_AI)  
 
 ---
 
@@ -71,7 +63,11 @@
 
 ---
 
-## 👨‍💻 Developed By  
-**Lesiba James Kganyago – Data Scientist** | 2025  
+## 📂 Data & Dashboard  
+- Example datasets and **Power BI dashboard** are hosted externally on Hugging Face.  
+- Explore live demo and download supporting files → [FraudGuard AI on Hugging Face](https://huggingface.co/spaces/jmine/FraudGuard_AI)  
 
 ---
+
+## 👨‍💻 Developed By  
+**Lesiba James Kganyago – Data Scientist** | 2025  
