@@ -33,7 +33,7 @@
 ---
 
 ## 📊 Performance Overview  
-- **Final Model Accuracy:** 97.04% ✅  
+- **Final Model Accuracy:** 97% ✅  
 - **Improvement over Default Model:** +0.27% 📈  
 - **Global Fraud Rate:** 5.04% of all transactions 💳  
 
